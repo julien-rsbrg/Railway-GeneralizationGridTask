@@ -1,0 +1,145 @@
+session_id,prolific_pid,prolific_session,questionnaire_id,question,response,language,context,client_time,received_at,study_id,administration
+dfb95fe0_2026-09-29_09-14-28,,,language,language,FR,FR,in_person,2026-09-29 07:16:04.541000+00:00,2026-09-29 07:16:04.609572+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,demographics,status,thésard,FR,in_person,2026-09-29 07:17:39.401000+00:00,2026-09-29 07:17:39.454710+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,demographics,education,bac + 6,FR,in_person,2026-09-29 07:17:39.401000+00:00,2026-09-29 07:17:39.454710+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,demographics,age,2,FR,in_person,2026-09-29 07:17:39.401000+00:00,2026-09-29 07:17:39.454710+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,EES,curieux / curieuse,un tout petit peu,FR,in_person,2026-09-29 07:17:45.614000+00:00,2026-09-29 07:18:05.260768+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,EES,confus / confuse,fort,FR,in_person,2026-09-29 07:17:47.334000+00:00,2026-09-29 07:18:05.260768+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,EES,anxieux / anxieuse,fort,FR,in_person,2026-09-29 07:17:48.859000+00:00,2026-09-29 07:18:05.260768+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,EES,excité / excitée,fort,FR,in_person,2026-09-29 07:17:59.902000+00:00,2026-09-29 07:18:05.260768+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,EES,ennuyé / ennuyée,très fort,FR,in_person,2026-09-29 07:18:01.210000+00:00,2026-09-29 07:18:05.260768+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,EES,surpris / surprise,fort,FR,in_person,2026-09-29 07:18:02.964000+00:00,2026-09-29 07:18:05.260768+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,EES,frustré / frustrée,fort,FR,in_person,2026-09-29 07:18:04.206000+00:00,2026-09-29 07:18:05.260768+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je crois que cette activité est importante pour moi,modérément,FR,in_person,2026-09-29 07:18:07.761000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que c’est quelque chose que je dois faire,beaucoup,FR,in_person,2026-09-29 07:18:10.315000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je pense que cette activité est bonne pour moi,beaucoup,FR,in_person,2026-09-29 07:18:11.724000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Par choix personnel,beaucoup,FR,in_person,2026-09-29 07:18:13.241000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Je ne sais pas ; je ne vois pas ce que cette activité m’apporte,beaucoup,FR,in_person,2026-09-29 07:18:14.695000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je n’ai pas le choix,beaucoup,FR,in_person,2026-09-29 07:18:16.170000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,"Il y a peut-être de bonnes raisons de faire cette activité, mais personnellement, je n’en vois aucune",beaucoup,FR,in_person,2026-09-29 07:18:17.624000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je suis censé le faire,beaucoup,FR,in_person,2026-09-29 07:18:18.991000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je trouve cette activité agréable,beaucoup,FR,in_person,2026-09-29 07:18:20.358000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que cette activité est amusante,beaucoup,FR,in_person,2026-09-29 07:18:21.658000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,"Je pratique cette activité, mais je ne suis pas sûr que cela en vaille la peine",beaucoup,FR,in_person,2026-09-29 07:18:22.954000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,"Je pratique cette activité, mais je ne suis pas sûr que ce soit une bonne chose de la poursuivre",beaucoup,FR,in_person,2026-09-29 07:18:24.300000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je le fais pour mon propre bien,beaucoup,FR,in_person,2026-09-29 07:18:25.642000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je sens que je dois le faire,beaucoup,FR,in_person,2026-09-29 07:18:26.975000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je trouve cette activité intéressante,beaucoup,FR,in_person,2026-09-29 07:18:28.300000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je me sens bien quand je pratique cette activité,beaucoup,FR,in_person,2026-09-29 07:18:29.609000+00:00,2026-09-29 07:18:30.687375+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Rien de ce que je fais n’est en réalité volontaire,fortement en désaccord,FR,in_person,2026-09-29 07:18:36.505000+00:00,2026-09-29 07:19:12.215071+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Mes mouvements sont automatiques : mon corps les effectue tout simplement,fortement en désaccord,FR,in_person,2026-09-29 07:18:42.297000+00:00,2026-09-29 07:19:12.215071+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,"Mes actions se produisent simplement, sans que je le veuille",neutre,FR,in_person,2026-09-29 07:18:46.456000+00:00,2026-09-29 07:19:12.215071+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,"Quand j’agis, j’ai l’impression d’être un robot télécommandé",en désaccord,FR,in_person,2026-09-29 07:18:50.160000+00:00,2026-09-29 07:19:12.215071+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Ce que je fais relève uniquement de mon libre arbitre,partiellement d'accord,FR,in_person,2026-09-29 07:18:53.268000+00:00,2026-09-29 07:19:12.215071+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,C’est à moi qu’il revient de décider si et quand j’agis,d'accord,FR,in_person,2026-09-29 07:18:57.598000+00:00,2026-09-29 07:19:12.215071+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Je planifie mon comportement du début à la fin,d'accord,FR,in_person,2026-09-29 07:18:59.536000+00:00,2026-09-29 07:19:12.215071+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Les conséquences de mes actes me surprennent généralement,d'accord,FR,in_person,2026-09-29 07:19:02.020000+00:00,2026-09-29 07:19:12.215071+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Je suis en plein contrôle de ce que je fais,d'accord,FR,in_person,2026-09-29 07:19:04.270000+00:00,2026-09-29 07:19:12.215071+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Je ne suis qu'un instrument entre les mains de quelqu'un ou de quelque chose d'autre,fortement en désaccord,FR,in_person,2026-09-29 07:19:08.015000+00:00,2026-09-29 07:19:12.215071+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Je suis entièrement responsable de tout ce qui résulte de mes actes,d'accord,FR,in_person,2026-09-29 07:19:11.170000+00:00,2026-09-29 07:19:12.215071+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,customization,epsilon,"0,1",FR,in_person,2026-09-29 07:23:15.099000+00:00,2026-09-29 07:23:15.126442+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,customization,nStamps,34,FR,in_person,2026-09-29 07:23:15.099000+00:00,2026-09-29 07:23:15.126442+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,customization,container,side_grass (UnityEngine.GameObject),FR,in_person,2026-09-29 07:23:15.099000+00:00,2026-09-29 07:23:15.126442+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,confirm_customizatio,chose_default,False,FR,in_person,2026-09-29 07:23:20.549000+00:00,2026-09-29 07:24:41.665864+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,EES,curieux / curieuse,fort,FR,in_person,2026-09-29 07:24:32.051000+00:00,2026-09-29 07:24:41.665864+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,EES,confus / confuse,fort,FR,in_person,2026-09-29 07:24:33.730000+00:00,2026-09-29 07:24:41.665864+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,EES,anxieux / anxieuse,fort,FR,in_person,2026-09-29 07:24:35.172000+00:00,2026-09-29 07:24:41.665864+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,EES,excité / excitée,fort,FR,in_person,2026-09-29 07:24:36.493000+00:00,2026-09-29 07:24:41.665864+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,EES,ennuyé / ennuyée,fort,FR,in_person,2026-09-29 07:24:37.931000+00:00,2026-09-29 07:24:41.665864+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,EES,surpris / surprise,fort,FR,in_person,2026-09-29 07:24:39.272000+00:00,2026-09-29 07:24:41.665864+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,EES,frustré / frustrée,fort,FR,in_person,2026-09-29 07:24:40.639000+00:00,2026-09-29 07:24:41.665864+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je crois que cette activité est importante pour moi,beaucoup,FR,in_person,2026-09-29 07:24:46.907000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que c’est quelque chose que je dois faire,beaucoup,FR,in_person,2026-09-29 07:24:48.498000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je pense que cette activité est bonne pour moi,beaucoup,FR,in_person,2026-09-29 07:24:50.598000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Par choix personnel,un petit peu,FR,in_person,2026-09-29 07:24:51.897000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Je ne sais pas ; je ne vois pas ce que cette activité m’apporte,beaucoup,FR,in_person,2026-09-29 07:24:53.127000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je n’ai pas le choix,un tout petit peu,FR,in_person,2026-09-29 07:24:54.377000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,"Il y a peut-être de bonnes raisons de faire cette activité, mais personnellement, je n’en vois aucune",beaucoup,FR,in_person,2026-09-29 07:24:55.619000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je suis censé le faire,modérément,FR,in_person,2026-09-29 07:24:56.915000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je trouve cette activité agréable,pas du tout,FR,in_person,2026-09-29 07:24:58.198000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que cette activité est amusante,parfaitement,FR,in_person,2026-09-29 07:24:59.398000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,"Je pratique cette activité, mais je ne suis pas sûr que cela en vaille la peine",modérément,FR,in_person,2026-09-29 07:25:00.657000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,"Je pratique cette activité, mais je ne suis pas sûr que ce soit une bonne chose de la poursuivre",beaucoup,FR,in_person,2026-09-29 07:25:01.944000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je le fais pour mon propre bien,modérément,FR,in_person,2026-09-29 07:25:03.286000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je sens que je dois le faire,plutôt,FR,in_person,2026-09-29 07:25:04.657000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je trouve cette activité intéressante,un petit peu,FR,in_person,2026-09-29 07:25:05.990000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SIMS,Parce que je me sens bien quand je pratique cette activité,beaucoup,FR,in_person,2026-09-29 07:25:07.319000+00:00,2026-09-29 07:25:08.343920+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Rien de ce que je fais n’est en réalité volontaire,neutre,FR,in_person,2026-09-29 07:25:14.336000+00:00,2026-09-29 07:25:49.034215+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Mes mouvements sont automatiques : mon corps les effectue tout simplement,partiellement d'accord,FR,in_person,2026-09-29 07:25:15.598000+00:00,2026-09-29 07:25:49.034215+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,"Mes actions se produisent simplement, sans que je le veuille",d'accord,FR,in_person,2026-09-29 07:25:17.053000+00:00,2026-09-29 07:25:49.034215+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,"Quand j’agis, j’ai l’impression d’être un robot télécommandé",neutre,FR,in_person,2026-09-29 07:25:18.378000+00:00,2026-09-29 07:25:49.034215+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Ce que je fais relève uniquement de mon libre arbitre,partiellement en désaccord,FR,in_person,2026-09-29 07:25:19.536000+00:00,2026-09-29 07:25:49.034215+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,C’est à moi qu’il revient de décider si et quand j’agis,partiellement d'accord,FR,in_person,2026-09-29 07:25:20.761000+00:00,2026-09-29 07:25:49.034215+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Je planifie mon comportement du début à la fin,d'accord,FR,in_person,2026-09-29 07:25:22.295000+00:00,2026-09-29 07:25:49.034215+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Les conséquences de mes actes me surprennent généralement,neutre,FR,in_person,2026-09-29 07:25:24.099000+00:00,2026-09-29 07:25:49.034215+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Je suis en plein contrôle ce que je fais,partiellement d'accord,FR,in_person,2026-09-29 07:25:45.496000+00:00,2026-09-29 07:25:49.034215+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Je ne suis qu'un instrument entre les mains de quelqu'un ou de quelque chose d'autre,d'accord,FR,in_person,2026-09-29 07:25:46.753000+00:00,2026-09-29 07:25:49.034215+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,SoAS,Je suis entièrement responsable de tout ce qui résulte de mes actes,neutre,FR,in_person,2026-09-29 07:25:47.983000+00:00,2026-09-29 07:25:49.034215+00:00,,2
+dfb95fe0_2026-09-29_09-14-28,,,post_open_questions,prediction_future_size,,FR,in_person,2026-09-29 07:26:37.910000+00:00,2026-09-29 07:26:37.940723+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,post_open_questions,prediction_rule,q,FR,in_person,2026-09-29 07:26:37.910000+00:00,2026-09-29 07:26:37.940723+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,post_open_questions,exploration,q,FR,in_person,2026-09-29 07:26:37.910000+00:00,2026-09-29 07:26:37.940723+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,post_open_questions,exploration_dynamic,a,FR,in_person,2026-09-29 07:26:37.910000+00:00,2026-09-29 07:26:37.940723+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,post_open_questions,goal,q,FR,in_person,2026-09-29 07:26:37.910000+00:00,2026-09-29 07:26:37.940723+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,ornithorynque,extrêmement familier,FR,in_person,2026-09-29 07:26:52.518000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,araignée,extrêmement familier,FR,in_person,2026-09-29 07:26:54.252000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,piano,extrêmement familier,FR,in_person,2026-09-29 07:26:55.764000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Supergirl,extrêmement familier,FR,in_person,2026-09-29 07:26:57.435000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,zèbre,extrêmement familier,FR,in_person,2026-09-29 07:26:59.693000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Batman,extrêmement familier,FR,in_person,2026-09-29 07:27:01.347000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,gâteau,extrêmement familier,FR,in_person,2026-09-29 07:27:02.910000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,macaronis au fromage,extrêmement familier,FR,in_person,2026-09-29 07:27:05.352000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Lapins crétins,extrêmement familier,FR,in_person,2026-09-29 07:27:06.935000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Melbourne,extrêmement familier,FR,in_person,2026-09-29 07:27:08.897000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,brocefruit,pas du tout familier,FR,in_person,2026-09-29 07:27:11.552000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Disney World,extrêmement familier,FR,in_person,2026-09-29 07:27:13.856000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,steobit,pas du tout familier,FR,in_person,2026-09-29 07:27:16.218000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,plolin,pas du tout familier,FR,in_person,2026-09-29 07:27:18.610000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Elsa,un peu familier,FR,in_person,2026-09-29 07:27:21.177000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,pamplemousse,un peu familier,FR,in_person,2026-09-29 07:27:23.110000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,donbura,pas du tout familier,FR,in_person,2026-09-29 07:27:26.077000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,batterie,assez familier,FR,in_person,2026-09-29 07:27:28.715000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,flûte,extrêmement familier,FR,in_person,2026-09-29 07:27:30.869000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,chocolat,extrêmement familier,FR,in_person,2026-09-29 07:27:32.403000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Ladybug,un peu familier,FR,in_person,2026-09-29 07:27:35.752000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,crosoda,pas du tout familier,FR,in_person,2026-09-29 07:27:37.911000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,bilbi,un peu familier,FR,in_person,2026-09-29 07:27:40.353000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,lapin,assez familier,FR,in_person,2026-09-29 07:27:42.240000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,avocat,modérément familier,FR,in_person,2026-09-29 07:27:43.807000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,xylophone,extrêmement familier,FR,in_person,2026-09-29 07:27:45.557000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,La Côte d'Or,assez familier,FR,in_person,2026-09-29 07:27:47.227000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,kangourou,modérément familier,FR,in_person,2026-09-29 07:27:48.836000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Reine Bernie,extrêmement familier,FR,in_person,2026-09-29 07:27:50.595000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,crosk,pas du tout familier,FR,in_person,2026-09-29 07:27:54.836000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,trompette,assez familier,FR,in_person,2026-09-29 07:27:56.615000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,utocket,pas du tout familier,FR,in_person,2026-09-29 07:27:58.815000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,vlepa,pas du tout familier,FR,in_person,2026-09-29 07:28:00.853000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Chine,un peu familier,FR,in_person,2026-09-29 07:28:03.099000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,pomme,extrêmement familier,FR,in_person,2026-09-29 07:28:05.120000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Toowomba,pas du tout familier,FR,in_person,2026-09-29 07:28:07.519000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,osorin,pas du tout familier,FR,in_person,2026-09-29 07:28:09.670000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Buruwang,un peu familier,FR,in_person,2026-09-29 07:28:12.579000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Springwater falls,extrêmement familier,FR,in_person,2026-09-29 07:28:26.058000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Paddington,extrêmement familier,FR,in_person,2026-09-29 07:28:28.925000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Léon l'Agneau,pas du tout familier,FR,in_person,2026-09-29 07:28:31.408000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,autruche,assez familier,FR,in_person,2026-09-29 07:28:33.782000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Grande Barrière de Corail,assez familier,FR,in_person,2026-09-29 07:28:35.933000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,Werrana,pas du tout familier,FR,in_person,2026-09-29 07:28:38.283000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,ChildOCQ,clarinette,extrêmement familier,FR,in_person,2026-09-29 07:28:40.787000+00:00,2026-09-29 07:28:41.839289+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,J’utilise différentes stratégies d’apprentissage en fonction de la tâche à accomplir.,Toujours,FR,in_person,2026-09-29 07:28:52.455000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,J’utilise mes points forts en matière d’apprentissage pour compenser mes faiblesses.,Toujours,FR,in_person,2026-09-29 07:28:55.646000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,J'apprends mieux quand je connais déjà un peu le sujet.,Toujours,FR,in_person,2026-09-29 07:28:59.016000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,Je m’interroge sur la qualité de mon travail pendant que j’apprends quelque chose de nouveau.,Toujours,FR,in_person,2026-09-29 07:29:01.733000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,Je fais des dessins ou des schémas pour m'aider à comprendre pendant que j'apprends.,Toujours,FR,in_person,2026-09-29 07:29:04.283000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,"Je réfléchis à plusieurs façons de résoudre un problème, puis je choisis la meilleure.",Toujours,FR,in_person,2026-09-29 07:29:07.312000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,"Une fois une tâche terminée, je me demande s’il y avait une manière plus simple de procéder.",Toujours,FR,in_person,2026-09-29 07:29:11.950000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,"Quand j'ai terminé mon travail scolaire, je me demande si j'ai appris ce que je voulais apprendre.",Toujours,FR,in_person,2026-09-29 07:29:29.966000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,Je prête vraiment attention aux informations importantes.,Souvent,FR,in_person,2026-09-29 07:29:32.053000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,Il m’arrive parfois d’utiliser des stratégies d’apprentissage sans y réfléchir.,Souvent,FR,in_person,2026-09-29 07:29:36.237000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,Je suis capable d'apprendre quand j'en ai besoin.,Rarement,FR,in_person,2026-09-29 07:29:39.449000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,J’apprends davantage lorsque le sujet m’intéresse.,Souvent,FR,in_person,2026-09-29 07:29:42.837000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,J'essaie d'utiliser des manières d'étudier qui ont déjà fait leurs preuves avec moi.,Souvent,FR,in_person,2026-09-29 07:29:46.661000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,Je vérifie de temps en temps que je vais bien pouvoir terminer mon travail à temps.,Souvent,FR,in_person,2026-09-29 07:29:51.365000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,Je détermine ce que je dois accomplir avant de commencer une tâche.,Parfois,FR,in_person,2026-09-29 07:29:53.878000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,Je réfléchis à ce que je dois apprendre avant de me mettre au travail.,Rarement,FR,in_person,2026-09-29 07:29:56.486000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,Je sais quand je comprends quelque chose.,Parfois,FR,in_person,2026-09-29 07:29:59.395000+00:00,2026-09-29 07:30:03.810492+00:00,,1
+dfb95fe0_2026-09-29_09-14-28,,,JrMAI,Je sais ce que le professeur attend de moi.,Rarement,FR,in_person,2026-09-29 07:30:02.761000+00:00,2026-09-29 07:30:03.810492+00:00,,1

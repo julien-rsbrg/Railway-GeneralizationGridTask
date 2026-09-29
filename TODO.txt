@@ -1,0 +1,4 @@
+- have question -> item_id
+
+- inverse encoding response: str -> int
+eg: parfois -> ?
