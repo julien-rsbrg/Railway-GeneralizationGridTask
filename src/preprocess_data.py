@@ -7,7 +7,7 @@ The JSON in the `data` column is expanded into separate columns.
 Works for any number of session_ids in the input file.
 
 Usage:
-    python extract_sessions.py input.csv [output_dir]
+    python3 -m src.preprocess_data input.csv output_dir
 """
 import os
 
